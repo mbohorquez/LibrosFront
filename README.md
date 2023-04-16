@@ -1,0 +1,1 @@
+# LibrosFront Para iniciar solo usar ng serve, si existe algun problema con CORS usar una extension como esta: https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf?hl=es
